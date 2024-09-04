@@ -1,0 +1,21 @@
+﻿  main.c
+C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\HellsGate\main.c(58,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
+C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\HellsGate\main.c(58,9): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'int'
+C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\HellsGate\main.c(99,18): warning C4020: 'Payload': too many actual parameters
+C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\HellsGate\main.c(192,6): warning C4029: declared formal parameter list different from definition
+C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\HellsGate\main.c(199,22): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\HellsGate\main.c(204,13): warning C4047: '=': 'UINT_PTR' differs in levels of indirection from 'PVOID'
+C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\HellsGate\main.c(212,13): warning C4047: '=': 'UINT_PTR' differs in levels of indirection from 'PVOID'
+C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\HellsGate\main.c(226,13): warning C4047: '=': 'UINT_PTR' differs in levels of indirection from 'PVOID'
+C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\HellsGate\main.c(228,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'ULONG'
+C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\HellsGate\main.c(228,9): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'ULONG'
+C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\HellsGate\main.c(233,13): warning C4047: '=': 'UINT_PTR' differs in levels of indirection from 'PVOID'
+C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\HellsGate\main.c(241,13): warning C4047: '=': 'UINT_PTR' differs in levels of indirection from 'PVOID'
+C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\HellsGate\main.c(249,13): warning C4047: '=': 'UINT_PTR' differs in levels of indirection from 'PVOID'
+C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\HellsGate\main.c(262,9): warning C4090: 'initializing': different 'const' qualifiers
+  Generating code
+  8 of 9 functions (88.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HellsGate.vcxproj -> C:\Users\misiu\Documents\GitHub\Process-Injection-HellsGate-with-Indirect-Syscalls-Cpp\HellsGate\x64\Release\HellsGate.exe
